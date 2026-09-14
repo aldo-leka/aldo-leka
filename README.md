@@ -15,5 +15,4 @@
 
 - Website: [aldo.al](https://aldo.al)
 - LinkedIn: [linkedin.com/in/aldo-leka](https://linkedin.com/in/aldo-leka)
-- X/Twitter: [twitter.com/leka_aldo](https://twitter.com/leka_aldo)
 - Boot.dev: [boot.dev/u/aldo](https://www.boot.dev/u/aldo)
